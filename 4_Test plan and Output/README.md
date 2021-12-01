@@ -1,5 +1,5 @@
 # TEST PLAN
-### Table no: High level test plan
+## Table no: High level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
 |  HL_01   | Capable of measuring a distance of up to 400 cm | Choice  |  Display    |   As Expected | Requirement Based |
