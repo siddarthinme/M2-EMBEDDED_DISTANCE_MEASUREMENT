@@ -47,17 +47,17 @@ The working principle of this module is simple.  It sends an ultrasonic pulse ou
 | ----- | ----- | ----- |
 | 1. | Suitable for close range detection up to ten meters | Implemented |
 | 2. | Provide multiple range measurements per second| Implemented |
-# Flow chart
+### Flow chart
 ![144277447-b0eda2d4-9b31-4f8f-a349-e3bbe423671b](https://user-images.githubusercontent.com/94165024/144281526-d45b2372-485c-4c40-b3ce-0016293e1ce0.png)
-# Block Diagram
+### Block Diagram
 ![144278354-61e95040-def3-44ca-8e17-594f5c081622](https://user-images.githubusercontent.com/94165024/144281749-e69a6816-dfc0-4640-9acb-07324782cb91.png)
-# Structural Diagram
+### Structural Diagram
 ![144278615-f3f99fe9-3936-4da7-a4d3-861b8ac82368](https://user-images.githubusercontent.com/94165024/144282074-f52be04f-240c-40c4-8060-697b03291ca9.png)
 ### Before measuring distance
 ![Distance_1](https://user-images.githubusercontent.com/94165024/144283077-2827d803-9689-4279-8e8d-bddf296715ac.jpeg)
 ### Measuring distance from an object
 ![Distance](https://user-images.githubusercontent.com/94165024/144283088-c640eea5-0200-4306-a498-ac3e1c9a7598.jpeg)
-# TEST PLAN:
+## TEST PLAN
 ### Table no: High level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
